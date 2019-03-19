@@ -1,6 +1,15 @@
 /**/
+body{
+  background-color: #FFE4E1;
+}
 h1{
   text-align: center;
-  background-color: lightblue;
-  border-radius: 5px;
+  background: url(../img/dfg.jpg);
+  color: white;
+}
+.calcular{
+  text-align: center;
+}
+.limpar{
+  text-align: center;
 };
