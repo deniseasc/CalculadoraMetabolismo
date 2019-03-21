@@ -25,6 +25,7 @@ $(document).on('click','#limpar',function(){
 	    $("#ativ  option:selected" ).val("");
        $("#sexo").val("");
        $("#mb").val("");
+       $("#ativ").val("selecione");
 	
 	
 	
